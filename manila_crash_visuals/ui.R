@@ -7,6 +7,9 @@
 #    http://shiny.rstudio.com/
 #
 
+# IMPORTANT: Test modifications in the test_application.R file before passing
+# to this file
+
 # INPUTS
 input_file = "test_data.csv"
 manila_lat = 14.5995
